@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Trabalho_Layout</string>
+    <string name="logo_app">Imagem do Boi</string>
+    <string name="imgProduto">Imagem do Produto</string>
+    <string name="btnEnter">Entrar</string>
+    <string name="btn_access">Clique para Acessar</string>
+    <string name="btnAdicionarCarrinho">Adicionar ao Carrinho</string>
+    <string name="btnAcessarDetalhesProduto">Acessar Detalhes do Produto</string>
+    <string name="lblUser">Usuário:</string>
+    <string name="lblPassword">Senha:</string>
+    <string name="txtproduto">Nome do Produto aqui</string>
+    <string name="txtDescProduto">Texto da descrição do produto aqui</string>
+</resources>
